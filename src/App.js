@@ -6,7 +6,7 @@ function App() {
       
 
     </div>
-    api=https://galacticmaster.github.io/lilacharitra/main/
+    
   );
 }
 
